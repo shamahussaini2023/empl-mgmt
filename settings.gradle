@@ -1,0 +1,2 @@
+rootProject.name = 'employee-management'
+include 'employee-  service', 'department-service', 'employee-mongo-service'
